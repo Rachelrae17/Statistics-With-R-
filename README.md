@@ -62,6 +62,13 @@ This is the P-vale Random Sample of the population for 0.2247 Where as the Signi
 
 ![ttest_lot_1](https://user-images.githubusercontent.com/95897182/163055713-f8655407-4321-40b5-a270-e39a9d50fd60.png)
 
+The p-vale of lot 1 is subset of the population. These two populations are very similiar when comparing with this image of the dataset. 
+
+![ttest_lot_2](https://user-images.githubusercontent.com/95897182/163057154-6108c28d-77c1-4bed-b02e-400ca2473717.png)
+
+The P-vale for Lot 3 population was 0.042, which falls way below significance levels of the 0.05. This does not match the null of the hypothesis. 
+
+
 
 
 
