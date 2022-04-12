@@ -39,11 +39,16 @@ Yes, I would say that the Linear Model predict Miles per gallon of MechaCar prot
 Statistics on Suspension Coils 
 
 ![total_summary](https://user-images.githubusercontent.com/95897182/163050744-c53f8c99-3e60-446d-a3c7-56821d678c44.png)
+
 This Data shows the whole Total Dataset. 
 
 
 
 This Is the Statistics From Manufacturing Lot. 
+
+![lot_summary](https://user-images.githubusercontent.com/95897182/163052152-e2fc4128-d7c8-4d20-ac4b-f9456bad2207.png)
+
+
 
 
 
