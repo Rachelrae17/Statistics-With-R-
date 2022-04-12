@@ -56,6 +56,10 @@ T- Test on Suspension Coils
 
 The T-test were performed both on a individual Manufacturing lots and Random sample.To determine whether the PSI from a population mean of 1,500 PSI. 
 
+![ttest_lot_1](https://user-images.githubusercontent.com/95897182/163055713-f8655407-4321-40b5-a270-e39a9d50fd60.png)
+
+
+
 
 
 
