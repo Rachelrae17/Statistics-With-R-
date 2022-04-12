@@ -71,6 +71,30 @@ The P-vale for Lot 3 population was 0.042, which falls way below significance le
 ![ttest_lot_3](https://user-images.githubusercontent.com/95897182/163058749-900f3b8c-fc14-4538-9463-bde2d8c4083c.png) 
 
 
+Study Design:Mechacar V.S. Competition 
+
+The MechaCar Study was Conducted to be able to provide the data to know and compare to see if it's the best on the market. Fuel efficiency, horse power manintence cost and the up keep were all factor in this study. Null Hypothesis is that there is no correlation on the difference between the Mechacar average fuel compared to other cars on the market and their average.  
+
+What metric or metrics are you going to test?
+The fuel efficiency of metric is what was tested. 
+
+What is the null hypothesis or alternative hypothesis?
+
+Null Hypothesis: Is that there is no correlation on Mechacar average fuel compared to others on the market. 
+Alternative hypothesis: There Is A Difference Between MechaCar's Average City Fuel and efficencey compared to others on the market. 
+
+What statistical test would you use to test the hypothesis? And why?
+
+You would then need to conduct a study with an example of Car Red and Car Blue. 
+Car red being the MechaCar and doing the study of the hypothesis. 
+Car Blue being a competitor car and doing the study in of the hypothesis. 
+
+What data is needed to run the statistical test?
+
+The Same similiar study would have to be redone again except this time you would be focus on Safety rating and the comparision of fuel efficency  on both red car and Blue Car and do an analysis to compare and contract the data. 
+
+
+
 
 
 
