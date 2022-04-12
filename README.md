@@ -23,5 +23,20 @@ This code was the second code used in order to get all the data that we needed t
 ![multiple_linear_regression_model](https://user-images.githubusercontent.com/95897182/163045468-73e1b6c1-dc68-473d-add8-b72e2a12a669.png)
 
 
+Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
+
+The Variables that are significant impact on Miles Per gallon were the Ground_Clearence & the Vehicle_Length. 
+
+Is the slope of the linear model considered to be zero? Why or why not?
+
+No, Not Zero for the slope. The Slope = 0.05
+
+Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?
+
+Yes, I would say that the Linear Model predict Miles per gallon of MechaCar prototypes is effevtive by the model car by approximatley 71.5% impact on the miles per Gallon. 
+
+
+
+
 
 
