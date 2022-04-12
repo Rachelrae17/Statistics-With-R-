@@ -36,6 +36,16 @@ Does this linear model predict mpg of MechaCar prototypes effectively? Why or wh
 Yes, I would say that the Linear Model predict Miles per gallon of MechaCar prototypes is effevtive by the model car by approximatley 71.5% impact on the miles per Gallon. 
 
 
+Statistics on Suspension Coils 
+
+![total_summary](https://user-images.githubusercontent.com/95897182/163050744-c53f8c99-3e60-446d-a3c7-56821d678c44.png)
+This Data shows the whole Total Dataset. 
+
+
+
+This Is the Statistics From Manufacturing Lot. 
+
+
 
 
 
