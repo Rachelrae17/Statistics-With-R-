@@ -20,6 +20,8 @@ summary(lm(mpg ~ vehicle_length + vehicle_weight + spoiler_angle + ground_cleara
 
 This code was the second code used in order to get all the data that we needed to answer the following questions of a Linear Regression. 
 
+![multiple_linear_regression_model](https://user-images.githubusercontent.com/95897182/163045468-73e1b6c1-dc68-473d-add8-b72e2a12a669.png)
+
 
 
 
