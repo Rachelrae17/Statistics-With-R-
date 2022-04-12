@@ -38,15 +38,25 @@ Yes, I would say that the Linear Model predict Miles per gallon of MechaCar prot
 
 Statistics on Suspension Coils 
 
+
+This Data shows the Whole Total Dataset. 
+
 ![total_summary](https://user-images.githubusercontent.com/95897182/163050744-c53f8c99-3e60-446d-a3c7-56821d678c44.png)
-
-This Data shows the whole Total Dataset. 
-
 
 
 This Is the Statistics From Manufacturing Lot. 
 
 ![lot_summary](https://user-images.githubusercontent.com/95897182/163052152-e2fc4128-d7c8-4d20-ac4b-f9456bad2207.png)
+
+The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+
+It must not exceed 100 PSI. This is Acceptable becuase the total summary of a variance is 62.29 PSI which is lower than 100 PSI. 
+
+T- Test on Suspension Coils 
+
+The T-test were performed both on a individual Manufacturing lots and Random sample.To determine whether the PSI from a population mean of 1,500 PSI. 
+
+
 
 
 
