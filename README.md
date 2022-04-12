@@ -68,6 +68,10 @@ The p-vale of lot 1 is subset of the population. These two populations are very 
 
 The P-vale for Lot 3 population was 0.042, which falls way below significance levels of the 0.05. This does not match the null of the hypothesis. 
 
+![ttest_lot_3](https://user-images.githubusercontent.com/95897182/163058749-900f3b8c-fc14-4538-9463-bde2d8c4083c.png) 
+
+
+
 
 
 
